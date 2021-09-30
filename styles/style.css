@@ -5,14 +5,24 @@ main {
     align-items: center;
     justify-content: center;
     font-family: 'Creepster', sans-serif;
+    flex-direction: column;
 }
 
 .calculations {
     border: 1px solid black;
     padding: 20px;
     background-color: orange;
+    
 }
 
-h1 {
+h1,h2 {
+    font-family: 'Creepster', sans-serif;
+}
+div {
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: 'Creepster', sans-serif;
 }
