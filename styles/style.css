@@ -6,17 +6,22 @@ main {
     justify-content: center;
     font-family: 'Creepster', sans-serif;
     flex-direction: column;
+    
+    
 }
 
 .calculations {
     border: 1px solid black;
     padding: 20px;
     background-color: orange;
+    margin-bottom: 25px;
+    
     
 }
 
-h1,h2 {
+h2 {
     font-family: 'Creepster', sans-serif;
+    
 }
 div {
     padding: 10px;
@@ -25,4 +30,12 @@ div {
     align-items: center;
     justify-content: center;
     font-family: 'Creepster', sans-serif;
+}
+body {
+    background-image: url('../assets/spooky.jpg');
+}
+h1 {
+    color: orange;
+    font-family: 'Creepster', sans-serif;
+    text-align: center;
 }
