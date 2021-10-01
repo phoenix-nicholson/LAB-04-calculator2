@@ -15,8 +15,7 @@ main {
     padding: 20px;
     background-color: orange;
     margin-bottom: 25px;
-    
-    
+    box-sizing: border-box;
 }
 
 h2 {
